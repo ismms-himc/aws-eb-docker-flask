@@ -343,6 +343,35 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 627,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSix\n---\n\n  CHANGELOG 0.8.12\n  \n      Please restart Sublime Text for the changes to work.\n  \n      NEW: Multiple selection mode.\n      NEW: Multiple line selection mode.\n  \n      NOTE:\n          To enter multiple selection mode, press gh.\n  \n          Once in this mode, you can press j to add more items like with Ctrl+D, or k to remove the last one.\n  \n          To exit multiple selection mode, press Esc.\n  \n          To enter multiple line selection mode, press gH.\n  \n          Once in this mode, you can press j or k to add more lines in the corresponding direction.\n  \n          To exit multiple line selection mode, press Esc.\n  \n          You cannot use editing operators in any of these modes. First, you need to switch to normal mode.\n  \n          These modes exist in order to provide a Vim-like way of adding multiple selections.\n  \n      FIX: end position after d in visual line mode.\n      FIX: cG deletes last line.\n      FIX: S correctly operates on last line.\n      FIX: exiting visual line mode no longer causes Esc action to be executed twice.\n      REFACTOR: scroll commands.\n      REFACTOR: selection logic.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.12-pre.0\n  \n      Please restart Sublime Text for the changes to work.\n  \n      FIX: end position after d in visual line mode.\n      FIX: cG deletes last line.\n      FIX: S correctly operates on last line.\n      FIX: exiting visual line mode no longer causes Esc action to be executed twice.\n      REFACTOR: scroll commands.\n      REFACTOR: selection logic.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.11\n  \n      Please restart Sublime Text for the changes to work.\n  \n      NEW: implement z- for all modes\n      NEW: implement z. for visual line mode\n      NEW: implement z. for visual mode\n      NEW: implement z<CR> for visual line mode\n      NEW: implement z<CR> for visual mode\n      NEW: implement zb for all modes\n      NEW: implement zt for visual line mode\n      NEW: implement zt for visual mode\n      NEW: implement zz for visual line mode\n      NEW: implement zz for visual mode\n      FIX: ensure regions are highlighted after :/<pattern> command.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "application.py",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -1051,8 +1080,144 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 46
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2361,
+								2361
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/Users/nickfernandez/Documents/custom-docker-local",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2777,
+								2777
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 8
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1648,6 +1813,9 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"_vintageous_last_buffer_search": "nick",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
 		}

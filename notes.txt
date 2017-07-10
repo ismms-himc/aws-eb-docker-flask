@@ -20,3 +20,21 @@ Running Locally Docker and Python
     docker build -t cornhundred/custom-docker-local .
 
     docker run -it --rm -p 9000:9000 cornhundred/custom-docker-local
+
+Running Locally using EB-CLI
+
+  Start by running eb init
+
+  This asks you about the location of the server, which application to use, whether you are using docker,
+
+  Set docker version to 1.6.2. Getting error that client API version 1.24 server API version 1.23.
+
+  using this command seems to help
+
+    export DOCKER_API_VERSION=1.23
+
+  running on port 8000.
+
+  find container URL using the command
+
+    http://192.168.59.103:8000/

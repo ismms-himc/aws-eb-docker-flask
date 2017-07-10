@@ -71,3 +71,8 @@ clustergrammer
 # git rm -r --cached .
 # git add .
 # git commit -m "fixing .gitignore"
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
