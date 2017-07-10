@@ -6,9 +6,9 @@ Simple AWS-EB Zipped-file deployment
 
     zip -r -X custom-docker-local.zip *
 
-  then the extra mac-associated files need (?) to be deleted using the following
+  (the -X command makes it un-necessary to remove any mac associated files)
 
-     zip -d orig-docker-container-del.zip __MACOSX/\*
+    zip -d custom-docker-local.zip __MACOSX/\*
 
 
 Running Locally Docker and Python
