@@ -107,7 +107,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Nick!!!!</h1>
+    <h1>Nick Custom-App!!!!</h1>
     <p>Adding notes and working on local deployment.</p>
   </div>
 
