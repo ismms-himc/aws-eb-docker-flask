@@ -38,3 +38,5 @@ Running Locally using EB-CLI
   find container URL using the command
 
     http://192.168.59.103:8000/
+
+  To reset elastic beanstalk delete the .elasticbeanstalk directory
