@@ -108,7 +108,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Nick!!!!</h1>
-    <p>Your Docker Container is now running in Elastic Beanstalk on your own dedicated environment in the AWS Cloud.</p>
+    <p>Adding notes and working on local deployment.</p>
   </div>
 
   <div class="linksColumn">

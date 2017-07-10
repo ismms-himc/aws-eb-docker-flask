@@ -1,0 +1,22 @@
+Simple AWS-EB Zipped-file deployment
+
+  I'm able to deploy this repo on AWS-EB by zipping the contents of this directory using the command
+
+  (run this from within the directory)
+
+    zip -r -X custom-docker-local.zip *
+
+  then the extra mac-associated files need (?) to be deleted using the following
+
+     zip -d orig-docker-container-del.zip __MACOSX/\*
+
+
+Running Locally Docker and Python
+
+  The python script, application.py, will not run locally
+
+  I'm using the following to build docker images and run them
+
+    docker build -t cornhundred/custom-docker-local .
+
+    docker run -it --rm -p 9000:9000 cornhundred/custom-docker-local
