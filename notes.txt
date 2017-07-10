@@ -58,5 +58,12 @@ EB init
 EB Local Run
   EB local run builds the application and serves it on port 8000. The full URL can be found using eb local status. (http://192.168.59.103:8000/).
 
+    eb local run
+
 EB CLI Deploy
+
+  Deploy to aws using the command:
+
+    eb deploy
+
   The region on the top right has to be the same region that you chose on the CLI.
