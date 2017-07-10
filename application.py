@@ -107,8 +107,8 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Nick Custom-App!!!!</h1>
-    <p>Adding notes and working on local deployment.</p>
+    <h1>EB CLI!!!!</h1>
+    <p>Deploying from EB CLI.</p>
   </div>
 
   <div class="linksColumn">
