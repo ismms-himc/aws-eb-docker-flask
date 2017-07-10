@@ -40,3 +40,21 @@ Running Locally using EB-CLI
     http://192.168.59.103:8000/
 
   To reset elastic beanstalk delete the .elasticbeanstalk directory
+
+
+EB init
+  I was able to successfully run the container locally using the following eb-init commands
+
+    default region 1 us-east-1
+
+    select custom-docker-local application to use
+
+    Y to using docker
+
+    platform version 6, 1.6.2
+
+    No to CodeCommit and no to setting up a SSH for your instances.
+
+EB Local Run
+  EB local run builds the application and serves it on port 8000. The full URL can be found using eb local status. (http://192.168.59.103:8000/).
+
