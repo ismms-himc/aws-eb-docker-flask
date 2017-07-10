@@ -1,0 +1,1664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_viz",
+				"get_viz_json_endpoint"
+			],
+			[
+				"Enrichr",
+				"Enrichr_cluster"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"N_row",
+				"N_row_sum_enr"
+			],
+			[
+				"insT_",
+				"inst_filter〔variable〕"
+			],
+			[
+				"Cluster",
+				"Clustergrammer"
+			],
+			[
+				"arg",
+				"arguments_obj〔variable〕"
+			],
+			[
+				"qu",
+				"query_string"
+			],
+			[
+				"slider_filter_row",
+				"slider_filter_row_value"
+			],
+			[
+				"double",
+				"doubleclicking"
+			],
+			[
+				"ini",
+				"initial_paragraph"
+			],
+			[
+				"re",
+				"reorder_title〔variable〕"
+			],
+			[
+				"load",
+				"load_g2e_to_net〔function〕"
+			],
+			[
+				"d3_clu",
+				"d3_clustergram_class〔module〕"
+			],
+			[
+				"G2E",
+				"G2Egram"
+			],
+			[
+				"erro",
+				"error_desc"
+			],
+			[
+				"g2e",
+				"g2e_json"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"cluser",
+				"clustergrammer"
+			],
+			[
+				"stat",
+				"staticmethod"
+			],
+			[
+				"l1000",
+				"l1000cds2"
+			],
+			[
+				"net_",
+				"network_data"
+			],
+			[
+				"min",
+				"min_num_comp"
+			],
+			[
+				"inst_gen",
+				"inst_gene_index"
+			],
+			[
+				"inst_ge",
+				"inst_gene_index"
+			],
+			[
+				"l",
+				"l1000cds2"
+			],
+			[
+				"l1000cds",
+				"l1000cds2_upload"
+			],
+			[
+				"g2",
+				"g2e_json"
+			],
+			[
+				"mock",
+				"mock_g2e"
+			],
+			[
+				"quer",
+				"querystring"
+			],
+			[
+				"d3_json",
+				"d3_json_export"
+			],
+			[
+				"extra",
+				"extract_prot_type_z_score〔function〕"
+			],
+			[
+				"thresh",
+				"thresh_y〔variable〕"
+			],
+			[
+				"res_olo",
+				"res_color_key"
+			],
+			[
+				"insT",
+				"inst_updn"
+			],
+			[
+				"json",
+				"json_scripts〔module〕"
+			],
+			[
+				"yesno_shuff",
+				"yesno_shuffle_kin"
+			],
+			[
+				"yesno_s",
+				"yesno_shuffle_kin"
+			],
+			[
+				"calc_ra",
+				"calc_rank_of_list〔function〕"
+			],
+			[
+				"calc",
+				"calc_rank_of_list〔function〕"
+			],
+			[
+				"to",
+				"top_tfs〔variable〕"
+			],
+			[
+				"kea",
+				"kea_x2k_sig"
+			],
+			[
+				"combine",
+				"combined_kinase_results"
+			],
+			[
+				"perturb",
+				"perturbations"
+			],
+			[
+				"pv",
+				"pval_bh"
+			],
+			[
+				"ptm_",
+				"ptm_31_data"
+			],
+			[
+				"featre",
+				"feature_type"
+			],
+			[
+				"num_",
+				"num_card_no"
+			],
+			[
+				"num_ca",
+				"num_card_yes"
+			],
+			[
+				"apper",
+				"row_appear_2"
+			],
+			[
+				"appera_",
+				"appear_4"
+			],
+			[
+				"ape",
+				"appear_4"
+			],
+			[
+				"inst_ap",
+				"inst_appear"
+			],
+			[
+				"inst_app",
+				"inst_appear_genes"
+			],
+			[
+				"ist",
+				"inst_appear_arr"
+			],
+			[
+				"appar",
+				"appear_2"
+			],
+			[
+				"ins",
+				"inst_feat"
+			],
+			[
+				"appear",
+				"appear_4"
+			],
+			[
+				"instli",
+				"inst_list_name"
+			],
+			[
+				"lis_t",
+				"list_name"
+			],
+			[
+				"mou",
+				"mouse_pheno"
+			],
+			[
+				"mult",
+				"mult_list_mut"
+			],
+			[
+				"al",
+				"all_mut"
+			],
+			[
+				"fea_",
+				"feat_other"
+			],
+			[
+				"fou",
+				"fount_feat"
+			],
+			[
+				"ch",
+				"child_of_root"
+			],
+			[
+				"my_ca",
+				"my_cases_all"
+			],
+			[
+				"my_",
+				"my_cases_all"
+			],
+			[
+				"incas",
+				"incaseHHE"
+			],
+			[
+				"in_ca",
+				"in_case_HHE"
+			],
+			[
+				"not_in_",
+				"not_in_case_HHE"
+			],
+			[
+				"HH",
+				"HHE_genes"
+			],
+			[
+				"c",
+				"calc_overlap_groups"
+			],
+			[
+				"correcteD",
+				"Corrected"
+			],
+			[
+				"corrected_",
+				"corrected_pvalues_str"
+			],
+			[
+				"corrected",
+				"corrected_pvalues_str"
+			],
+			[
+				"calculate",
+				"calculateGeneFill"
+			],
+			[
+				"buildNe",
+				"buildNetworkModal"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"quant",
+				"quantilenorm"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"dex",
+				"dex"
+			],
+			[
+				"Dex",
+				"Dex"
+			],
+			[
+				"PPI_AG",
+				"PPI_AG"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/anaconda.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/anaconda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"vali",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"val",
+				"Pretty JSON: Validate"
+			],
+			[
+				"valid",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prett",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"log al",
+				"Git: Log All"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"quio",
+				"Git: Quick Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"ADD",
+				"Git: Add..."
+			],
+			[
+				"puah",
+				"Git: Pull Current Branch"
+			],
+			[
+				"qiu",
+				"Git: Quick Commit"
+			],
+			[
+				"QUI",
+				"Git: Quick Commit"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"q\tui",
+				"Git: Quick Commit"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"qio",
+				"Git: Quick Commit"
+			],
+			[
+				"puh",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pu",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Tag"
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Tag"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git: push ",
+				"Git: Push"
+			],
+			[
+				"remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"push ",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"FileDiffs",
+				"FileDiffs: Menu"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"filediff",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":exit",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 419.0
+	},
+	"console":
+	{
+		"height": 351.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nickfernandez/Documents/custom-docker-local"
+	],
+	"file_history":
+	[
+		"/Users/nickfernandez/Documents/eb-python-flask/old_python.config",
+		"/Users/nickfernandez/Documents/clustergrammer-web/Dockerfile",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/clustergrammer_widget/static/index.js",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/.gitignore",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/package.json",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/node_modules/clustergrammer/js/Enrichr_functions.js",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/node_modules/clustergrammer/clustergrammer.js",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/src/Clustergrammer.js",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/LICENSE",
+		"/Users/nickfernandez/Documents/clustergrammer_widget/js/node_modules/d3/d3.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/enrichr_functions.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_viz_sim_mats.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/grab_data/__init__.py",
+		"/Users/nickfernandez/Documents/CCLE/load_ccle_to_mongo.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_multiple_clust.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/notes_docker.txt",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/ccle.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/-- this is where you need to push",
+		"/Users/nickfernandez/Documents/clustergrammer/Dockerfile",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/clustergrammer_v132/enrichr_functions.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/fake_enrichr.py",
+		"/Users/nickfernandez/Documents/clustergrammer/boot.sh",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer.v1.2.0.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer.v1.3.1.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/index.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/viz.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/viz_sim_mats.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/load_tsv_file.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/app.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/demo.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/load_tsv_endpoint.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_index.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer.v1.0.0.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_multiple_clust.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/viz_pages/viz_functions.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_viz_new.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/home_pages/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/viz_pages/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/vector_upload_endpoint.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/Enrichr_clustergram_endpoint.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/run_vector_upload.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/ccle_treemap.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/test_sim_mats.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_viz_demo.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_new.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/make_sim_mats.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/json/demo.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/demo_pages/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/viz_old.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/demo_old.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_viz.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/viz_new.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_viz_enrichr.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/fake_vect_post.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/tmp.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/clustergrammer/run_filter.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/d3_clustergram_pre_downsample.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/Enrichr_new.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/gen3va.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/play_demo.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/tmp.txt",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/clustergrammer_old.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer_new.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer_enrichr.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/get_viz_json_endpoint.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/fake_vect_post.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/api_response.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/status_check/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/clustergrammer/initialize_net.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/clustergrammer/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/clustergrammer.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/run_enrich_background.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/run_load_tsv.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/deleting_clustergrammer.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/upload_pages/vector_upload_function.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/run_enrich_background.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_functions.py",
+		"/Users/nickfernandez/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/Enrichr_new.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/load_tsv_file.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/Enrichr_clustergram_endpoint.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/run_enrich_background.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/run_g2e_background.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/clustergrammer.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/fake_enrichr.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/enrichr_clust/enrichr_functions.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/Enrichr.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/clustergrammer.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/enrichr_set_up.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/Enrichr.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/clustergrammer.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/home_pages/help_page.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/about/__init__.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/about.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/error.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/l1000cds2.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/help.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/help.css",
+		"/Users/nickfernandez/Documents/clustergrammer_networks/vector_upload_jsons/example_upload.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/vector_post-filter.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_ccle.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/harmonizome.html",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_viz_harmonizome.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom_viz.css",
+		"/Users/nickfernandez/Documents/clustergrammer/README.md",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/gen3va.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/old_vector_post.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/lib/css/prettify.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/l1000cds2.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/lib/css/bootstrap.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/harmonizome.css",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/js/load_local_network.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/lib/js/saveSVGasPNG.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/templates/Enrichr",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/test_vect_post.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/large_vect_post.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/large_vect_post.txt",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/latest_vector_post.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/fake_vect_post_data.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/mock_g2e.json",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/vector_post.json",
+		"/Users/nickfernandez/Documents/clustergrammer/LICENSE.txt",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/lib/js/blockUI.js",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/d3_clustergram_class.py",
+		"/Users/nickfernandez/Documents/clustergrammer/clustergrammer/static/css/custom.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.py",
+			"",
+			"*js",
+			"*",
+			"*.js",
+			"",
+			"*.py",
+			"*.js",
+			"",
+			"*",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.css",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.css",
+			"",
+			"*py",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.py",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.py",
+			"*.js",
+			"*py",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.py",
+			"",
+			"*py",
+			"",
+			"*.py",
+			"",
+			"*",
+			"*.py",
+			".py",
+			"",
+			"<open folders>",
+			"C:\\Users\\Nick Fernandez\\Documents\\MATLAB",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nick",
+			"prefork-dev",
+			"from",
+			"staticfiles",
+			"hello",
+			"staticfiles",
+			"1.1.6",
+			"1.2.1",
+			"1.1.2",
+			"v1.12.2",
+			"v1.12.1",
+			"1.12.1",
+			"1.12.2",
+			"1.1.5",
+			"v1.12.2",
+			"v1.12.1",
+			"index.js",
+			"example.js",
+			"v1.11.8",
+			"v1.7.2",
+			"1.11.6",
+			"clustergrammer",
+			"npm",
+			"enrichr_logo",
+			"default value",
+			"loading clustergrammer",
+			"console.log",
+			"loading clustergrammer",
+			"clustergrammer",
+			"nbexten",
+			"widgetsnb",
+			"public",
+			"new_module",
+			"network_string",
+			"helloworld",
+			"cgm_mod",
+			"click buttons",
+			"zoom,",
+			"zoom",
+			"helloworld",
+			"row_tip",
+			"d3.selectAll('.row_tip')",
+			"d3.selectAll('.row_tip').remove();",
+			"load_tsv_endpoint",
+			"start_upload",
+			"load_tsv_file",
+			"grab_data",
+			"hzome",
+			"tree_viz_ccle_",
+			"v1.3.1",
+			"password",
+			"pass",
+			"maayanlab",
+			"requests.get",
+			"import requests",
+			"get",
+			"home_pages",
+			"origin",
+			"oriigin",
+			"crossorigin",
+			"wait_time",
+			"mod_wsgi",
+			"apache",
+			"make-get-re",
+			"run_enrich_background",
+			"v132",
+			"enrichr_functions",
+			"enrichr_clust_from",
+			"enrichr_clust_from_response",
+			"enrichr_cluster",
+			"enrichr cluster function",
+			"using latest cluste",
+			"processing",
+			"thread is done",
+			"clustergrammer_v132",
+			"mongo_address",
+			"strip",
+			"for line",
+			"for inst_line",
+			"filename",
+			"find_one",
+			"find",
+			"clustergrammer_v1",
+			"test_sim_mat",
+			"load_tsv_endpoint",
+			"view in full",
+			"custom_multiple_clust",
+			"or your own",
+			"user clustergram",
+			"v1.2.0",
+			"clustergrammer",
+			"v1.0",
+			"v1.0.0",
+			"load_tsv_endpoint",
+			"allowed_file",
+			"stringIO",
+			"clustergrammer_v100",
+			"v1.2.0",
+			"v1.0.0",
+			"thread.",
+			"daemon",
+			"make_response",
+			"matrix_upload",
+			"upload_matrix",
+			"ccle_treemap.js",
+			"soft tissue",
+			"blue_links",
+			"row_sim",
+			"render_page",
+			"test_sim_mats",
+			"viz_functions",
+			"viz_new",
+			"sim_mat",
+			"make_sim_mat",
+			"load_tsv_endpoint",
+			"load_tsv_file",
+			"v100",
+			"demo",
+			"load_viz_new",
+			"from clustergrammer import network",
+			"fake_vect_post",
+			"from clustergrammer import network",
+			"tmp",
+			"from clustergrammer import network",
+			"deleting_clust",
+			"deleting_clustergrammer",
+			"from clustergrammer import network",
+			"import request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"export_lists",
+			"feature_type",
+			"load_cardiac_data",
+			"rand_sample",
+			"inst_gmt_name",
+			"card_bar",
+			"mut",
+			"card_mut",
+			"mult_list_genes",
+			"feat_pos",
+			"feat_end",
+			"\nfeat_begin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 518.0
+	},
+	"output.find_results":
+	{
+		"height": 548.0
+	},
+	"output.git":
+	{
+		"height": 306.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "custom-docker-local.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"application.py"
+			],
+			[
+				"notes",
+				"clustergrammer/notes_docker.txt"
+			],
+			[
+				"dockerfil",
+				"Dockerfile"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"old",
+				"old_python.config"
+			],
+			[
+				"python",
+				".ebextensions/python.config"
+			],
+			[
+				"y",
+				".elasticbeanstalk/config.yml"
+			],
+			[
+				"running",
+				"Running_clustergrammer_widget.ipynb"
+			],
+			[
+				"releas",
+				"RELEASE.md"
+			],
+			[
+				"package",
+				"js/package.json"
+			],
+			[
+				"index",
+				"clustergrammer_widget/static/index.js"
+			],
+			[
+				"releaes",
+				"RELEASE.md"
+			],
+			[
+				"version",
+				"clustergrammer_widget/_version.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"webpac",
+				"js/webpack.config.js"
+			],
+			[
+				"relea",
+				"RELEASE.md"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				"index.js",
+				"clustergrammer_widget/static/index.js"
+			],
+			[
+				"clustergra",
+				"js/node_modules/clustergrammer/clustergrammer.js"
+			],
+			[
+				"clustergr",
+				"js/node_modules/clustergrammer/clustergrammer.js"
+			],
+			[
+				"package.",
+				"js/package.json"
+			],
+			[
+				"enrichr",
+				"js/node_modules/clustergrammer/js/Enrichr_functions.js"
+			],
+			[
+				"example",
+				"js/src/example.js"
+			],
+			[
+				"lice",
+				"js/LICENSE"
+			],
+			[
+				"clustergrammer.js",
+				"js/node_modules/clustergrammer/clustergrammer.js"
+			],
+			[
+				"clusterg",
+				"js/src/Clustergrammer.js"
+			],
+			[
+				"d3.js",
+				"js/node_modules/d3/d3.js"
+			],
+			[
+				"example.",
+				"clustergrammer_widget/example.py"
+			],
+			[
+				"clustergrammer",
+				"js/src/Clustergrammer.js"
+			],
+			[
+				"exampl",
+				"js/src/example.js"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"ccle",
+				"clustergrammer/templates/ccle.html"
+			],
+			[
+				"enrichr_functions",
+				"clustergrammer/upload_pages/enrichr_functions.py"
+			],
+			[
+				"load_m",
+				"clustergrammer/static/js/load_multiple_clust.js"
+			],
+			[
+				"load_viz_new",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"viz",
+				"clustergrammer/templates/viz.html"
+			],
+			[
+				"viz_sim",
+				"clustergrammer/templates/viz_sim_mats.html"
+			],
+			[
+				"load_viz_ne",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"sim_ma",
+				"clustergrammer/templates/viz_sim_mats.html"
+			],
+			[
+				"1.4.3",
+				"clustergrammer/static/js/clustergrammer.v1.4.3.js"
+			],
+			[
+				"upload_pages",
+				"clustergrammer/upload_pages/__init__.py"
+			],
+			[
+				"load_tsv_end",
+				"clustergrammer/upload_pages/load_tsv_endpoint.py"
+			],
+			[
+				"grab_d",
+				"clustergrammer/grab_data/__init__.py"
+			],
+			[
+				"grab_dta",
+				"~/Documents/clustergrammer/clustergrammer/grab_data/__init__.py"
+			],
+			[
+				"load_mi",
+				"clustergrammer/static/js/load_multiple_clust.js"
+			],
+			[
+				"demo",
+				"clustergrammer/templates/demo.html"
+			],
+			[
+				"mult_",
+				"clustergrammer/static/js/load_multiple_clust.js"
+			],
+			[
+				"enrichr_new",
+				"clustergrammer/templates/Enrichr_new.html"
+			],
+			[
+				"--",
+				"clustergrammer/-- this is where you need to push"
+			],
+			[
+				"viz_pa",
+				"clustergrammer/viz_pages/__init__.py"
+			],
+			[
+				"enrichr_fun",
+				"clustergrammer/upload_pages/enrichr_functions.py"
+			],
+			[
+				"enrichr_",
+				"clustergrammer/upload_pages/clustergrammer_v132/enrichr_functions.py"
+			],
+			[
+				"load_tsv",
+				"clustergrammer/upload_pages/load_tsv_endpoint.py"
+			],
+			[
+				"boot",
+				"boot.sh"
+			],
+			[
+				"dok",
+				"clustergrammer/notes_docker.txt"
+			],
+			[
+				"fake_enr",
+				"clustergrammer/upload_pages/fake_enrichr.py"
+			],
+			[
+				"enrichr_cluster",
+				"clustergrammer/upload_pages/Enrichr_clustergram_endpoint.py"
+			],
+			[
+				"run_enrichr",
+				"clustergrammer/upload_pages/run_enrich_background.py"
+			],
+			[
+				"upload_pages/clustergrammer/__ini",
+				"clustergrammer/upload_pages/clustergrammer/__init__.py"
+			],
+			[
+				"__ini",
+				"clustergrammer/__init__.py"
+			],
+			[
+				"load_ts",
+				"clustergrammer/upload_pages/load_tsv_file.py"
+			],
+			[
+				"viz_functions",
+				"clustergrammer/viz_pages/viz_functions.py"
+			],
+			[
+				"ap",
+				"clustergrammer/app.py"
+			],
+			[
+				"viz_fun",
+				"clustergrammer/viz_pages/viz_functions.py"
+			],
+			[
+				"cluster",
+				"clustergrammer/static/js/clustergrammer.v1.2.0.js"
+			],
+			[
+				"help",
+				"clustergrammer/templates/help.html"
+			],
+			[
+				"viz_sim_ma",
+				"clustergrammer/templates/viz_sim_mats.html"
+			],
+			[
+				"customviz_sim",
+				"clustergrammer/static/css/custom_viz_sim_mats.css"
+			],
+			[
+				"notes_",
+				"clustergrammer/notes_docker.txt"
+			],
+			[
+				"load_mul",
+				"clustergrammer/static/js/load_multiple_clust.js"
+			],
+			[
+				"custom_mult",
+				"clustergrammer/static/css/custom_multiple_clust.css"
+			],
+			[
+				"custom_in",
+				"clustergrammer/static/css/custom_index.css"
+			],
+			[
+				"enrichr_un",
+				"clustergrammer/upload_pages/enrichr_functions.py"
+			],
+			[
+				"load_tsv_file",
+				"clustergrammer/upload_pages/load_tsv_file.py"
+			],
+			[
+				"viz.ht",
+				"clustergrammer/templates/viz.html"
+			],
+			[
+				"demo.",
+				"clustergrammer/templates/demo.html"
+			],
+			[
+				"enrirhc",
+				"clustergrammer/upload_pages/Enrichr_clustergram_endpoint.py"
+			],
+			[
+				"mult",
+				"clustergrammer/static/js/load_multiple_clust.js"
+			],
+			[
+				"ccle_tree",
+				"clustergrammer/static/js/ccle_treemap.js"
+			],
+			[
+				"vector_up",
+				"clustergrammer/upload_pages/vector_upload_endpoint.py"
+			],
+			[
+				"run_vector",
+				"clustergrammer/upload_pages/run_vector_upload.py"
+			],
+			[
+				"vector_upload",
+				"clustergrammer/upload_pages/vector_upload_endpoint.py"
+			],
+			[
+				"viz_sim_",
+				"clustergrammer/templates/viz_sim_mats.html"
+			],
+			[
+				"home_age",
+				"clustergrammer/home_pages/__init__.py"
+			],
+			[
+				"clu",
+				"clustergrammer/static/js/clustergrammer.v1.0.0.js"
+			],
+			[
+				"viz_pages",
+				"clustergrammer/viz_pages/__init__.py"
+			],
+			[
+				"viz_funct",
+				"clustergrammer/viz_pages/viz_functions.py"
+			],
+			[
+				"viz_m",
+				"clustergrammer/templates/viz_sim_mats.html"
+			],
+			[
+				"homepage",
+				"clustergrammer/home_pages/__init__.py"
+			],
+			[
+				"make_",
+				"clustergrammer/templates/make_sim_mats.html"
+			],
+			[
+				"upload_page",
+				"clustergrammer/upload_pages/__init__.py"
+			],
+			[
+				"load_tsv_endo",
+				"clustergrammer/upload_pages/load_tsv_endpoint.py"
+			],
+			[
+				"home_page",
+				"clustergrammer/home_pages/__init__.py"
+			],
+			[
+				"custom",
+				"clustergrammer/static/css/custom_new.css"
+			],
+			[
+				"viz.h",
+				"clustergrammer/templates/viz.html"
+			],
+			[
+				"inde",
+				"clustergrammer/templates/index.html"
+			],
+			[
+				"demo.json",
+				"clustergrammer/static/json/demo.json"
+			],
+			[
+				"load_viz_demo",
+				"clustergrammer/static/js/load_viz_demo.js"
+			],
+			[
+				"load_viz",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"custom_new",
+				"clustergrammer/static/css/custom_new.css"
+			],
+			[
+				"viz_ol",
+				"clustergrammer/templates/viz_old.html"
+			],
+			[
+				"load_viz_n",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"load_",
+				"clustergrammer/static/js/load_viz.js"
+			],
+			[
+				"demo_pages",
+				"clustergrammer/demo_pages/__init__.py"
+			],
+			[
+				"demo_ol",
+				"clustergrammer/templates/demo_old.html"
+			],
+			[
+				"demo_old",
+				"clustergrammer/templates/demo_old.html"
+			],
+			[
+				"upload/_",
+				"clustergrammer/upload_pages/__init__.py"
+			],
+			[
+				"load_viz_e",
+				"clustergrammer/static/js/load_viz_enrichr.js"
+			],
+			[
+				"load_new",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"viz_new",
+				"clustergrammer/templates/viz_new.html"
+			],
+			[
+				"load_tsv_fil",
+				"clustergrammer/upload_pages/load_tsv_file.py"
+			],
+			[
+				"fake_ve",
+				"clustergrammer/fake_vect_post.py"
+			],
+			[
+				"tm",
+				"clustergrammer/upload_pages/tmp.py"
+			],
+			[
+				"gen",
+				"clustergrammer/templates/gen3va.html"
+			],
+			[
+				"run_fl",
+				"clustergrammer/upload_pages/clustergrammer/run_filter.py"
+			],
+			[
+				"load_v",
+				"clustergrammer/static/js/load_viz.js"
+			],
+			[
+				"load_viz_",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"viz_ne",
+				"clustergrammer/templates/viz_new.html"
+			],
+			[
+				"vi",
+				"clustergrammer/templates/viz.html"
+			],
+			[
+				"load_vi_enri",
+				"clustergrammer/static/js/load_viz_enrichr.js"
+			],
+			[
+				"tmp.",
+				"tmp.txt"
+			],
+			[
+				"tmp_",
+				"clustergrammer/static/js/d3_clustergram_pre_downsample.js"
+			],
+			[
+				"load",
+				"clustergrammer/static/js/load_viz_new.js"
+			],
+			[
+				"custom_inde",
+				"clustergrammer/static/css/custom_index.css"
+			],
+			[
+				"_old",
+				"clustergrammer/clustergrammer_old.py"
+			],
+			[
+				"load_viz_enr",
+				"clustergrammer/static/js/load_viz_enrichr.js"
+			],
+			[
+				"clustergrammer_enrichr",
+				"clustergrammer/static/js/clustergrammer_enrichr.js"
+			],
+			[
+				"load_enrichr",
+				"clustergrammer/static/js/load_viz_enrichr.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
